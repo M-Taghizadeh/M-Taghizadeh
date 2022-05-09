@@ -1,5 +1,5 @@
 # Hi, this is **Mohammad Taghizadeh** :) 
-About six years of professional programming experience with different programming languages ​​and of course I am very interested in **Python**, Backend development , Artificial intelligence , teaching programming to others and learning with training :)
+Professional programming experience with different programming languages ​​and of course I am very interested in **Python** (Since 2018), Backend development , Artificial intelligence , teaching programming to others and learning with training :)
 
 My goal is to teach the best quality programming courses in Persian web, and for this purpose, I record programming contents on YouTube and publish programming training courses on Persian online education platforms.
 
