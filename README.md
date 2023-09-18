@@ -1,37 +1,33 @@
 # Hi, this is **Mohammad Taghizadeh** :) 
-Professional programming experience with different programming languages ​​and of course I am very interested in **Python** (Since 2018), Backend development , Artificial intelligence , teaching programming to others and learning with training :)
+Professional programming experience with different programming languages ​​and of course I am very interested in **Python** (Since 2018), Backend development, Artificial intelligence, teaching programming to others and learning with training :)
 
-My goal is to teach the best quality programming courses in Persian web, and for this purpose, I record programming contents on YouTube and publish programming training courses on Persian online education platforms.
+My goal is to teach the best quality programming courses in Persian web, and for this purpose, I record programming contents on **YouTube** and publish programming training courses on Persian online education platforms.
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=M-Taghizadeh.M-Taghizadeh)
 
 
 ### Some fields of study and activities 
-- Python programming
-- Python Backend Development(Django, Flask, Fast API)
-- Artificial intelligence, ML
-- Deep learning
+- Python Programming
+- Python Backend Development: Django, Flask, Fast API
+- Artificial Intelligence, ML, Deep Learning
 - Natural Language Processing
-- Search engine development
-- Face detection and face recognition
-- Web scraping
-- Python parallel and concurrent programming
-- Python Design Patterns, Software architecture
+- Computational Linguistics
+- Computer Vision
+- Search Engine Development
+- Face Detection and Face Recognition
+- Web Scraping, and Web Crawling
+- Python Parallel and Concurrent Programming
+- Python Design Patterns, Software Architecture
 - Teaching programming and recording courses and programming contents on YouTube and Persian online education platforms
 - Java programming and desktop application development
-- PHP programming
-- Android programming (somewhat :))
 
 
 ### My favorites activities
 - Code review of other developers, I can get into the minds of other programmers by looking at their code :)
-- My favorite sport is ping pong :)
-- Analyze and watch football
-- Classical movies
+- My favorite sport is Football, MMA, Table tennis :)
 - Podcasts are an important part of my life
-- Mostly tea :) and sometimes coffee
-- Philosophy and theology
-- Study about the history of Iran and some other countries
+- Philosophy
+- History of Iran and some other countries
 
 
 | ![M-Taghizadeh's github stats](https://github-readme-stats.vercel.app/api?username=M-Taghizadeh&show_icons=true&theme=tokyonight) | ![M-Taghizadeh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-Taghizadeh&theme=tokyonight) |
