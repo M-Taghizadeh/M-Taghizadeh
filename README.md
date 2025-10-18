@@ -3,14 +3,7 @@ Professional programming experience with different programming languages ​​a
 
 My goal is to teach the best quality programming courses in Persian web, and for this purpose, I record programming contents on **YouTube** and publish programming training courses on Persian online education platforms.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Taghizadeh&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-Taghizadeh&theme=tokyonight)
 [![YouTube](https://img.shields.io/badge/YouTube-MohammadTaghizadeh-red?logo=youtube&style=flat-square)](https://www.youtube.com/c/MohammadTaghizadeh)
-![Coding Enthusiast](https://img.shields.io/badge/Coding-Enthusiast-blue?style=flat-square&logo=python)
-![Welcome](https://img.shields.io/badge/Welcome-to-my-profile-ff69b4?style=for-the-badge)
-
-
-
 
 ### Some fields of study and activities 
 - Python Programming
