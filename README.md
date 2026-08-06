@@ -1,7 +1,7 @@
 # Hi, this is **Mohammad Taghizadeh** :) 
-Professional programming experience with different programming languages ​​and of course I am very interested in **Python** (Since 2018), Backend development, Artificial intelligence, teaching programming to others and learning with training :)
+Professional programming experience with different programming languages, ​​and of course, I am very interested in **Python** (Since 2018), Backend development, Artificial intelligence, teaching programming to others and learning with training :)
 
-My goal is to teach the best quality programming courses in Persian web, and for this purpose, I record programming contents on **YouTube** and publish programming training courses on Persian online education platforms.
+My goal is to teach the best quality programming courses on the Persian web, and for this purpose, I record programming content on **YouTube** and publish programming training courses on Persian online education platforms.
 
 [![YouTube](https://img.shields.io/badge/YouTube-MohammadTaghizadeh-red?logo=youtube&style=flat-square)](https://www.youtube.com/c/MohammadTaghizadeh)
 
@@ -10,20 +10,21 @@ My goal is to teach the best quality programming courses in Persian web, and for
 - Python Backend Development: Django, Flask, Fast API
 - Artificial Intelligence, ML, Deep Learning
 - Natural Language Processing
+- Large Language Models (LLMs)
 - Computational Linguistics
 - Computer Vision
 - Search Engine Development
 - Face Detection and Face Recognition
-- Web Scraping, and Web Crawling
+- Web Scraping and Web Crawling
 - Python Parallel and Concurrent Programming
 - Python Design Patterns, Software Architecture
-- Teaching programming and recording courses and programming contents on YouTube and Persian online education platforms
+- Teaching programming and recording courses and programming content on YouTube and Persian online education platforms
 - Java programming and desktop application development
 
 
-### My favorites activities
-- Code review of other developers, I can get into the minds of other programmers by looking at their code :)
-- My favorite sport is Football, MMA, Table tennis :)
+### My favorite activities
+- Code review of other developers; I can get into the minds of other programmers by looking at their code :)
+- My favorite sports are football, MMA, and table tennis :)
 - Podcasts are an important part of my life
 - Philosophy
 - History of Iran and some other countries
@@ -42,4 +43,4 @@ My goal is to teach the best quality programming courses in Persian web, and for
 [Telegram Channel](https://t.me/python_daneshjooyar) | 
 [Telegram Group](https://t.me/joinchat/c_WMjvAuJVo5MGZk) | 
 [Twitter](https://twitter.com/M__Taghizadeh) | 
-[Personal website](http://m-taghizadeh.ir) | 
+[Personal website](https://m-taghizadeh.github.io/) | 
