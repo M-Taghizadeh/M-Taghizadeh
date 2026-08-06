@@ -37,9 +37,9 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
 - History of Iran and World History
 
 
-| ![M-Taghizadeh's github stats](https://github-readme-stats.vercel.app/api?username=M-Taghizadeh&show_icons=true&theme=tokyonight) | ![M-Taghizadeh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-Taghizadeh&theme=tokyonight) |
+| ![M-Taghizadeh's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=M-Taghizadeh&show_icons=true&theme=tokyonight) | ![M-Taghizadeh GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=M-Taghizadeh&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Taghizadeh&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=M-Taghizadeh&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M-Taghizadeh&layout=compact&theme=tokyonight) | ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Taghizadeh&theme=tokyonight) |
 
 
 ### Connect with Me 
