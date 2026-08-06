@@ -1,33 +1,40 @@
 # Hi, this is **Mohammad Taghizadeh** :) 
-Professional programming experience with different programming languages, ​​and of course, I am very interested in **Python** (Since 2018), Backend development, Artificial intelligence, teaching programming to others and learning with training :)
+I'm a software developer with professional experience in multiple programming languages. My main passion is **Python** (since 2018), along with backend development, artificial intelligence, and the creation of high-quality educational content.
 
-My goal is to teach the best quality programming courses on the Persian web, and for this purpose, I record programming content on **YouTube** and publish programming training courses on Persian online education platforms.
+My mission is to empower Persian-speaking developers by creating high-quality programming courses and educational content. I regularly publish educational videos on **YouTube** and develop comprehensive online courses.
 
 [![YouTube](https://img.shields.io/badge/YouTube-MohammadTaghizadeh-red?logo=youtube&style=flat-square)](https://www.youtube.com/c/MohammadTaghizadeh)
 
-### Some fields of study and activities 
+
+### Areas of Expertise
 - Python Programming
-- Python Backend Development: Django, Flask, Fast API
-- Artificial Intelligence, ML, Deep Learning
-- Natural Language Processing
+- Backend Development (Django, Flask, FastAPI)
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Deep Learning
+- Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 - Computational Linguistics
 - Computer Vision
 - Search Engine Development
-- Face Detection and Face Recognition
-- Web Scraping and Web Crawling
-- Python Parallel and Concurrent Programming
-- Python Design Patterns, Software Architecture
-- Teaching programming and recording courses and programming content on YouTube and Persian online education platforms
-- Java programming and desktop application development
+- Face Detection & Face Recognition
+- Web Scraping & Web Crawling
+- Parallel & Concurrent Programming in Python
+- Software Architecture & Design Patterns
+- Teaching Programming and Creating Educational Content
+- Java Programming & Desktop Application Development
 
 
-### My favorite activities
-- Code review of other developers; I can get into the minds of other programmers by looking at their code :)
-- My favorite sports are football, MMA, and table tennis :)
-- Podcasts are an important part of my life
+### Interests
+- Reviewing other developers' code and understanding different approaches to problem-solving
+- Creating programming courses and educational content
+- Learning new technologies and sharing knowledge
+- Football
+- Mixed Martial Arts (MMA)
+- Table Tennis
+- Listening to Podcasts
 - Philosophy
-- History of Iran and some other countries
+- History of Iran and World History
 
 
 | ![M-Taghizadeh's github stats](https://github-readme-stats.vercel.app/api?username=M-Taghizadeh&show_icons=true&theme=tokyonight) | ![M-Taghizadeh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-Taghizadeh&theme=tokyonight) |
@@ -35,7 +42,7 @@ My goal is to teach the best quality programming courses on the Persian web, and
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Taghizadeh&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=M-Taghizadeh&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-### Find me here 
+### Connect with Me 
 [Youtube Channel](https://www.youtube.com/c/MohammadTaghizadeh) <a href = 'https://www.youtube.com/c/MohammadTaghizadeh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>  | 
 [Instagram](https://www.instagram.com/taghizadeh.me) <a href = 'https://www.instagram.com/taghizadeh.me'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> | 
 [LinkedIn](https://linkedin.com/in/mtaghizadeh/) <a href = 'https://linkedin.com/in/mtaghizadeh/'> <img width = '27px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> |
