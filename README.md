@@ -39,7 +39,7 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
 
 | ![M-Taghizadeh's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=M-Taghizadeh&show_icons=true&rank_icon=github&theme=tokyonight) | ![M-Taghizadeh GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=M-Taghizadeh&theme=tokyonight) |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M-Taghizadeh&theme=tokyonight&compact=true) | ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Taghizadeh&theme=tokyonight) |
+| ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M-Taghizadeh&theme=tokyonight&layout=compact) | ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Taghizadeh&theme=tokyonight) |
 
 
 ### Connect with Me 
