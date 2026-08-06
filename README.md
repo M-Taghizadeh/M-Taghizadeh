@@ -36,10 +36,24 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
 - Philosophy
 - History of Iran and World History
 
-
-| ![M-Taghizadeh GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=M-Taghizadeh&theme=tokyonight) | ![M-Taghizadeh GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=M-Taghizadeh&show_icons=true&rank_icon=github&include_all_commits=true&hide=prs,issues,contribs&theme=tokyonight&custom_title=M-Taghizadeh%27s%20GitHub%20Stats)
-| --- | --- |
-| ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M-Taghizadeh&theme=tokyonight&layout=compact) | ![Project Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=M-Taghizadeh&repo=Python-full-course&theme=tokyonight) |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=M-Taghizadeh&theme=tokyonight" width="400">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=M-Taghizadeh&show_icons=true&rank_icon=github&include_all_commits=true&hide=prs,issues,contribs&theme=tokyonight" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M-Taghizadeh&theme=tokyonight&layout=compact" width="400">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=M-Taghizadeh&repo=Python-full-course&theme=tokyonight" width="400">
+    </td>
+  </tr>
+</table>
 
 ### Connect with Me 
 [Youtube Channel](https://www.youtube.com/c/MohammadTaghizadeh) <a href = 'https://www.youtube.com/c/MohammadTaghizadeh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>  | 
