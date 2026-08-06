@@ -42,7 +42,7 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
       <img src="https://github-readme-stats-fast.vercel.app/api?username=M-Taghizadeh&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight" width="420">
     </td>
     <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M-Taghizadeh&layout=compact&theme=tokyonight" width="350">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M-Taghizadeh&layout=compact&theme=tokyonight" width="400">
     </td>
   </tr>
   <tr>
