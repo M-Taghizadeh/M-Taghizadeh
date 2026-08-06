@@ -37,14 +37,9 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
 - History of Iran and World History
 
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=M-Taghizadeh&show_icons=true&rank_icon=github&include_all_commits=true&hide=prs,issues,contribs&theme=tokyonight&custom_title=M-Taghizadeh%27s%20GitHub%20Stats" height="180"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=M-Taghizadeh&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M-Taghizadeh&theme=tokyonight&layout=compact" height="180"/>
-</p>
+| ![M-Taghizadeh GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=M-Taghizadeh&show_icons=true&rank_icon=github&include_all_commits=true&hide=prs,issues,contribs&theme=tokyonight&custom_title=M-Taghizadeh%27s%20GitHub%20Stats) | ![M-Taghizadeh GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=M-Taghizadeh&theme=tokyonight) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M-Taghizadeh&theme=tokyonight&layout=compact) | ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Taghizadeh&theme=tokyonight) |
 
 
 ### Connect with Me 
