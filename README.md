@@ -1,5 +1,8 @@
 # Hi, this is **Mohammad Taghizadeh** :) 
-I'm a software developer with professional experience in multiple programming languages. My main passion is **Python** (since 2018), along with backend development, artificial intelligence, and the creation of high-quality educational content.
+
+![Mohammad Taghizadeh](header.png)
+
+I'm a software developer with professional experience in multiple programming languages. My main passion is **Python** (since 2018), along with backend development, artificial intelligence, and creating high-quality educational content.
 
 My mission is to empower Persian-speaking developers by creating high-quality programming courses and educational content. I regularly publish educational videos on **YouTube** and develop comprehensive online courses.
 
