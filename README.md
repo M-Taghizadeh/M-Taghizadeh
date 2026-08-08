@@ -1,6 +1,6 @@
-# Hi, this is **Mohammad Taghizadeh** :) 
-
 ![Mohammad Taghizadeh](header.png)
+
+# Hi, this is **Mohammad Taghizadeh** :) 
 
 I'm a software developer with professional experience in multiple programming languages. My main passion is **Python** (since 2018), along with backend development, artificial intelligence, and creating high-quality educational content.
 
