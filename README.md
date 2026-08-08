@@ -1,4 +1,4 @@
-![Mohammad Taghizadeh](HEADER.png)
+![Mohammad Taghizadeh](Header.png)
 
 # Hi, this is **Mohammad Taghizadeh** :) 
 
