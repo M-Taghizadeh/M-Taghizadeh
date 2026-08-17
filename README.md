@@ -51,7 +51,7 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
 </table>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=M-Taghizadeh&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=M-Taghizadeh&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400&exclude=Reviews" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
