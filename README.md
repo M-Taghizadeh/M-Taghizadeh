@@ -58,30 +58,13 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=M-Taghizadeh&theme=merko&radius=10" alt="M-Taghizadeh's Activity Graph" />
 </p>
 
-
-## 🛠️ Languages & Tools
-
-<h3 align="center"></h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  
-  <h3 align="center">💻 Programming Languages</h3>
-<p align="center">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M-Taghizadeh&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
-  
-</p>
-
+  <a href="https://github.com/M-Taghizadeh">
+    <img
+      src="https://stats.pphat.top/languages?username=M-Taghizadeh"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 ## 🔗 Connect with Me
@@ -101,17 +84,6 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
 </p>
 
 
-<h3 align="center">⚡ Top Languages</h3>
-
-
-<p align="center">
-  <a href="https://github.com/M-Taghizadeh">
-    <img
-      src="https://stats.pphat.top/languages?username=M-Taghizadeh"
-      alt="Top Languages"
-    />
-  </a>
-</p>
 
 
 <p align="center">
