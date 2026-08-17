@@ -59,6 +59,90 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
   </tr>
 </table>
 
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/M-Taghizadeh">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M-Taghizadeh&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="M-Taghizadeh's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=M-Taghizadeh&theme=merko&hide_border=true&cache_seconds=86400" alt="M-Taghizadeh's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=M-Taghizadeh&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hamed Farazi's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=M-Taghizadeh&theme=merko&radius=10" alt="M-Taghizadeh's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center"></h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  
+  <h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M-Taghizadeh&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
+  
+</p>
+
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href=" ">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;
+  <a href=" ">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;
+  <a href=" ">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>&nbsp;
+  <a href=" ">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+
+<h3 align="center">⚡ Top Languages</h3>
+
+
+<p align="center">
+  <a href="https://github.com/M-Taghizadeh">
+    <img
+      src="https://stats.pphat.top/languages?username=M-Taghizadeh"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
+
+
 ### Connect with Me 
 [Youtube Channel](https://www.youtube.com/c/MohammadTaghizadeh) <a href = 'https://www.youtube.com/c/MohammadTaghizadeh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>  | 
 [Instagram](https://www.instagram.com/taghizadeh.me) <a href = 'https://www.instagram.com/taghizadeh.me'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> | 
