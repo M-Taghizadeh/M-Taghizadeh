@@ -51,7 +51,7 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-Taghizadeh&theme=merko&no-frame=true&no-bg=true&margin-w=4&column=-1&title=-Reviews" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=M-Taghizadeh&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=-1&title=-Reviews" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
