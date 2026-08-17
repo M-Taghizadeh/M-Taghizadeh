@@ -69,17 +69,20 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href=" ">
+  <a href="">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;
   <a href=" ">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
   </a>&nbsp;
-  <a href=" ">
+  <a href="https://www.youtube.com/c/MohammadTaghizadeh">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
   </a>&nbsp;
   <a href=" ">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+  <a href="https://www.instagram.com/taghizadeh.me">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" />
   </a>
 </p>
 
