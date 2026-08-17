@@ -72,7 +72,6 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
   <a href="https://linkedin.com/in/mtaghizadeh">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
-  Group
   <a href="https://www.youtube.com/c/MohammadTaghizadeh">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
   </a>
@@ -83,10 +82,10 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" width="40" />
   </a>
   <a href="https://t.me/python_daneshjooyar">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Channel.svg" alt="Telegram Channel" width="40" />
+    <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" height="28" />
   </a>
   <a href="https://t.me/joinchat/c_WMjvAuJVo5MGZk">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram Group" width="40" />
+    <img src="https://img.shields.io/badge/Telegram-Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Group" height="28" />
   </a>
   <a href="https://twitter.com/M__Taghizadeh">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
