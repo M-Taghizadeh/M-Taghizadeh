@@ -83,7 +83,7 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" width="40" />
   </a>
   <a href="https://t.me/python_daneshjooyar">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram Channel" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Channel.svg" alt="Telegram Channel" width="40" />
   </a>
   <a href="https://t.me/joinchat/c_WMjvAuJVo5MGZk">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram Group" width="40" />
