@@ -69,31 +69,28 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
 
 ### Connect with Me
 <p align="center">
-  <a href="">
+  <a href="https://linkedin.com/in/mtaghizadeh">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>;
-  <a href=" ">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>;
+  </a>
   <a href="https://www.youtube.com/c/MohammadTaghizadeh">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-  </a>;
-  <a href=" ">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
   <a href="https://www.instagram.com/taghizadeh.me">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" />
   </a>
+  <a href="https://t.me/tqzdh">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" width="40" />
+  </a>
+  <a href="https://t.me/python_daneshjooyar">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram Channel" width="40" />
+  </a>
+  <a href="https://t.me/joinchat/c_WMjvAuJVo5MGZk">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram Group" width="40" />
+  </a>
+  <a href="https://twitter.com/M__Taghizadeh">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>
+  <a href="https://m-taghizadeh.github.io/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
 </p>
-
-
-
-### Connect with Me 
-[Youtube Channel](https://www.youtube.com/c/MohammadTaghizadeh) <a href = 'https://www.youtube.com/c/MohammadTaghizadeh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>  | 
-[Instagram](https://www.instagram.com/taghizadeh.me) <a href = 'https://www.instagram.com/taghizadeh.me'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> | 
-[LinkedIn](https://linkedin.com/in/mtaghizadeh/) <a href = 'https://linkedin.com/in/mtaghizadeh/'> <img width = '27px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> |
-[Telegram](https://t.me/tqzdh) | 
-[Telegram Channel](https://t.me/python_daneshjooyar) | 
-[Telegram Group](https://t.me/joinchat/c_WMjvAuJVo5MGZk) | 
-[Twitter](https://twitter.com/M__Taghizadeh) | 
-[Personal website](https://m-taghizadeh.github.io/) | 
