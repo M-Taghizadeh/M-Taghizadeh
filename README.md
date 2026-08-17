@@ -85,19 +85,6 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
 
 
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
-
-
-
 ### Connect with Me 
 [Youtube Channel](https://www.youtube.com/c/MohammadTaghizadeh) <a href = 'https://www.youtube.com/c/MohammadTaghizadeh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>  | 
 [Instagram](https://www.instagram.com/taghizadeh.me) <a href = 'https://www.instagram.com/taghizadeh.me'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> | 
