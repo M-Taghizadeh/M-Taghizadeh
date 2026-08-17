@@ -69,28 +69,28 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
 
 ### Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/mtaghizadeh">
+  <a href="https://linkedin.com/in/mtaghizadeh" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/c/MohammadTaghizadeh">
+  <a href="https://www.youtube.com/c/MohammadTaghizadeh" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.instagram.com/taghizadeh.me">
+  <a href="https://www.instagram.com/taghizadeh.me" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://t.me/tqzdh">
+  <a href="https://t.me/tqzdh" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://t.me/python_daneshjooyar">
+  <a href="https://t.me/python_daneshjooyar" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
   </a>
-  <a href="https://t.me/joinchat/c_WMjvAuJVo5MGZk">
+  <a href="https://t.me/joinchat/c_WMjvAuJVo5MGZk" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Group" />
   </a>
-  <a href="https://twitter.com/M__Taghizadeh">
+  <a href="https://twitter.com/M__Taghizadeh" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://m-taghizadeh.github.io/">
+  <a href="https://m-taghizadeh.github.io/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </p>
