@@ -72,6 +72,7 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
   <a href="https://linkedin.com/in/mtaghizadeh">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
+  Group
   <a href="https://www.youtube.com/c/MohammadTaghizadeh">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
   </a>
