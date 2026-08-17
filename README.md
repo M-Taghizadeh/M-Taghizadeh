@@ -28,6 +28,16 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
 - Java Programming & Desktop Application Development
 
 
+<p align="center">
+  <a href="https://github.com/M-Taghizadeh">
+    <img
+      src="https://stats.pphat.top/languages?username=M-Taghizadeh"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+
+
 ### Interests
 - Reviewing other developers' code and understanding different approaches to problem-solving
 - Creating programming courses and educational content
@@ -59,15 +69,6 @@ My mission is to empower Persian-speaking developers by creating high-quality pr
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=M-Taghizadeh&theme=merko&radius=10" alt="M-Taghizadeh's Activity Graph" />
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/M-Taghizadeh">
-    <img
-      src="https://stats.pphat.top/languages?username=M-Taghizadeh"
-      alt="Top Languages"
-    />
-  </a>
-</p>
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mtaghizadeh)
